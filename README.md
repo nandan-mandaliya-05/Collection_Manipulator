@@ -567,7 +567,7 @@ exit()
 # 📁 Project Structure
 
 ```text
-PR-3 - Student Data Organizer/
+PR-3 - Collection Manipulator/
 │
 ├── student_data_organizer.py
 │
