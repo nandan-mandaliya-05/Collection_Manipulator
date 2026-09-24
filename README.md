@@ -10,7 +10,7 @@
 
 <br>
 
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge\&logo=python\&logoColor=white)](https://www.python.org/downloads/release/python-3109/)
 ![Project](https://img.shields.io/badge/Project-Student%20Management-00C2FF?style=for-the-badge)
 ![Console](https://img.shields.io/badge/Application-Console-success?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
