@@ -3,7 +3,7 @@ print("~"*25,"Welcome to the student Data Organizer!","~"*25)
 students = []
 
 while True:
-    print("\nSelect an option:")
+    print("\nSelect an option: ")
     
     list_of_menu = ["1. Add Student",
                     "2. Display All Students",
