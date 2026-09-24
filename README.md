@@ -842,6 +842,6 @@ If you found this project useful or interesting:
 
 <br><br>
 
-**Made with ❤️ and Python**
+**Made with ❤️ and Python Nandan Mandaliya**
 
 </div>
