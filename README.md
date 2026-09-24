@@ -1,4 +1,4 @@
-# PR-3 - Student Data Organizer
+# PR-3 - Collection Manipulator
 
 <div align="center">
 
