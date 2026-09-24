@@ -591,7 +591,7 @@ git clone YOUR_GITHUB_REPOSITORY_URL
 ## 2. Navigate to the Project
 
 ```bash
-cd Student-Data-Organizer
+cd PR-3 - Collection Manipulator
 ```
 
 ## 3. Run the Python Program
