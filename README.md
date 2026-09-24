@@ -446,7 +446,7 @@ exit()
 # 📁 Project Structure
 
 ```text
-Student-Data-Organizer/
+PR-3 - Student Data Organizer/
 │
 ├── student_data_organizer.py
 │
