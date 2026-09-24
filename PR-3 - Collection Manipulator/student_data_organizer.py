@@ -167,25 +167,4 @@ while True:
     elif choice == 6:
         print("\nThank you.")
         exit()
-            
-        
-        
-                
-                
-                
-                
-                         
-            
-            
-            
-        
-            
-        
-        
-     
-        
-                 
-         
-    
-    
-    
+   
