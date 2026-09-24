@@ -356,8 +356,6 @@ Example:
 Student ID: 101 | Name: Alice | Age: 20 | Subjects: ['Python', 'Math', 'English'] | Date of Birth: 2006-05-15 | Scores: [85, 90, 80] | Total: 255 | Grade: B+ | Average:85.00
 ```
 
-This allows all student information and academic performance to be viewed from one place.
-
 ---
 
 # ✏️ 3. Update Student Information
@@ -413,8 +411,6 @@ Example:
 ```text
 Student Deleted Successfully
 ```
-
-This feature demonstrates the use of list modification and dictionary-based record searching.
 
 ---
 
@@ -691,6 +687,22 @@ The project can be extended with additional features such as:
 * 🖥️ Build a graphical user interface
 * 🌐 Convert the project into a web application
 * 📊 Add student performance analytics
+
+---
+
+# 🎥 Project Explanation Video
+
+Want to see how the **Student Data Organizer** works?
+
+I have created an explanation video demonstrating the project and its different features.
+
+### ▶️ Watch the Explanation Video
+
+[![🎥 Watch Explanation Video](https://img.shields.io/badge/▶️%20Watch%20Explanation%20Video-Google%20Drive-4285F4?style=for-the-badge\&logo=google-drive\&logoColor=white)](https://drive.google.com/file/d/1srN0aIAYKYJzSfKPM1a2VYW7UGKzDJpW/view?usp=drivesdk)
+
+**🎬 Video:** [Student Data Organizer — Explanation Video](https://drive.google.com/file/d/1srN0aIAYKYJzSfKPM1a2VYW7UGKzDJpW/view?usp=drivesdk)
+
+> 🎬 The video provides a practical walkthrough of the Student Data Organizer project.
 
 ---
 
