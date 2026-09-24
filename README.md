@@ -1,4 +1,4 @@
-# PR-3 - Student Data Organizer
+# PR-3 - Collection Manipulator
 <div align="center">
 
 # 🎓 Student Data Organizer
@@ -356,11 +356,39 @@ Student Deleted Successfully
 
 # 📚 5. Display Subjects Offered
 
-The program can display the subjects stored for the students.
+The program displays the subjects for each student along with the student's name.
 
-This feature demonstrates how nested lists can be collected from dictionaries stored inside the main student list.
+The subjects are stored in each student's dictionary under the "subjects" key.
 
----
+The program uses:
+
+for student in students:
+    print(f"{student['name']}: {', '.join(student['subjects'])}")
+
+This produces a clear student-wise subject list.
+
+Example
+<<<<<<<<<<<<<<<<<<<< Display Subjects Offered >>>>>>>>>>>>>>>>>>>>
+
+Alice: Python, Math, English
+Bob: Python, Excel
+Rahul: Java, Python
+
+This makes it easy to see which subjects belong to each student.
+
+🧠 Python Concepts Used
+
+This feature demonstrates:
+
+📋 List traversal
+📖 Dictionary access
+🔤 String join() method
+🔁 for loop
+📝 Formatted strings using f-strings
+
+The join() method converts the subject list into a readable comma-separated string:
+
+', '.join(student['subjects'])
 
 # 🧠 Python Concepts Practised
 
